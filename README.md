@@ -1,4 +1,4 @@
-# Feature-bloat-reduction-system
+# Feature bloat reduction system
 Une méthode pour prioriser l'exécution des tâches
 
 # Proposition
